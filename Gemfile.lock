@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    k_means_clustering (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.10.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  k_means_clustering!
+  minitest
+
+BUNDLED WITH
+   1.10.6
