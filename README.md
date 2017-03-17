@@ -1,6 +1,7 @@
 # K-Means Clustering
 
-## A ruby implementation of the K Means Clustering algorithm
+This project is still a very rough first draft. It is by no means useable for production.
+
 
 ## Usage
 
@@ -32,7 +33,5 @@ clustering.add(datapoint)
 #=> {x: 9.5, y: 0.5}
   clusters.datapoints
 # => [{ x: 10, y: 0 }, { x: 9, y: 1 }]
-
-
 ```
 
